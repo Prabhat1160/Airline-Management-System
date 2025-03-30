@@ -1,0 +1,13 @@
+__________________________YOYO Airlines_______________________
+_____________________________Ticket__________________________
+_____________________________________________________________
+Customer ID : 11
+Customer Name : abc
+Customer Gender : male
+
+                 Description
+
+Source :      		cdg
+Destination : 		Canada
+Flight Cost : 		58000
+__________________________Have a Safe Journey_______________________
